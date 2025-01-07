@@ -1,0 +1,8 @@
+0 Hello
+1 How are you
+2 NiceToMeetYou
+3 Hungry
+4 Sorry
+5 What is your name
+6 Thank You
+7 Deaf
